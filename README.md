@@ -4,8 +4,6 @@ In this repository we have deployed the clustering problem for HELP internationa
 https://strategic-aid-categorizing-countries-in-need.streamlit.app/
 
 
-# HELP International - Country Categorization
-
 ## Objective
 To categorize countries based on socio-economic and health factors that determine their overall development. This will help HELP International strategically allocate funds to the nations most in need.
 
